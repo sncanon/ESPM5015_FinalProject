@@ -8,6 +8,8 @@ for showcasing your works. Howdy is mobile and retina ready which means your sit
 will look great, crisp and sharp on any screen resolutions and devices. Howdy is built 
 on clean and organized code which makes it easy to customize.
 
+***THIS TEMPLATE HAS BEEN MODIFIED BY SARAH CANON FOR A CLASS PROJECT AT THE UNIVERSITY OF MINNESOTA.***
+
 --------------------------------------------------------------------------------------
 
 SOURCES AND CREDITS:
